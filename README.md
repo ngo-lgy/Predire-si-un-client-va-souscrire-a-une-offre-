@@ -1,6 +1,7 @@
 # Predire-si-un-client-va-souscrire-a-une-offre-
 
 🎯 Prédire si un client va souscrire à une offre 🏦
+
 📊 Projet personnel de Data Science 
 
 Cette étude est une étude de classification binaire qui porte sur la prédiction à la souscription à une offre bancaire à partir des informations disponibles dans le Bank MarketingDataset.
@@ -12,3 +13,5 @@ Le travail comprend notamment le traitement des valeurs manquantes, le traitemen
 Les modèles utilisés pour les prédictions sont notamment : XGBoost classifier et LightGBMclassifier.
 
 Licence : Ce document est mis à disposition sous licence Creative Commons Attribution 4.0 International (CC BY 4.0). Toute réutilisation du contenu soumise à cette licence doit mentionner l'auteur, la source et les informations de licence.
+
+<img width="1019" height="539" alt="Screenshot_20261023_112208_Samsung Notes" src="https://github.com/user-attachments/assets/60207926-a070-4982-96b9-bb018a675632" />

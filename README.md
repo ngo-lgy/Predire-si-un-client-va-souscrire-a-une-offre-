@@ -4,6 +4,9 @@
 
 📊 Projet personnel de Data Science 
 
+<img width="430" height="259" alt="Capture d&#39;écran 2026-10-23 134137" src="https://github.com/user-attachments/assets/0bbbc05c-5629-4d5d-b99e-7bdb4c0f2e64" />
+
+
 Cette étude est une étude de classification binaire qui porte sur la prédiction à la souscription à une offre bancaire à partir des informations disponibles dans le Bank MarketingDataset.
 
 Dans cette étude, nous construisons, comparons et interprétons les résultats de plusieursmodèles prédictifs capables prédire si un client va souscrire à l’offre à partir de ses caractéristiques personnelles, sa situation financière et des informations de la campagnemarketing.

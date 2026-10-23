@@ -10,3 +10,5 @@ Dans cette étude, nous construisons, comparons et interprétons les résultats 
 Le travail comprend notamment le traitement des valeurs manquantes, le traitement desvaleurs aberrantes, l’analyse des corrélations, la création de nouvelles variables, l’encodagedes variables catégorielles, l’entraînement de plusieurs modèles de machine learning et lacomparaison de leur performance sur un ensemble de validation indépendant, l’explicationSHAP à trois niveaux des résultats de prédictions, etc.
 
 Les modèles utilisés pour les prédictions sont notamment : XGBoost classifier et LightGBMclassifier.
+
+Licence : Ce document est mis à disposition sous licence Creative Commons Attribution 4.0 International (CC BY 4.0). Toute réutilisation du contenu soumise à cette licence doit mentionner l'auteur, la source et les informations de licence.

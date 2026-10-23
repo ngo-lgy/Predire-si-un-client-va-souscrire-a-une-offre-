@@ -3,11 +3,6 @@
 🎯 Prédire si un client va souscrire à une offre 🏦
 📊 Projet personnel de Data Science 
 
-
-![Uploading Screenshot_20261023_112208_Samsung Notes.jpg…]()
-
-
-
 Cette étude est une étude de classification binaire qui porte sur la prédiction à la souscription à une offre bancaire à partir des informations disponibles dans le Bank MarketingDataset.
 
 Dans cette étude, nous construisons, comparons et interprétons les résultats de plusieursmodèles prédictifs capables prédire si un client va souscrire à l’offre à partir de ses caractéristiques personnelles, sa situation financière et des informations de la campagnemarketing.
